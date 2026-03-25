@@ -1,0 +1,5 @@
+The quick brown fox jumps over the lazy dog. This is a simple test of the text to speech system. It should split this into manageable chunks for processing.
+
+After the first chunk is generated, the system will begin playing it. Meanwhile, the next chunk will start generating in the background. This pipeline approach ensures smooth playback without long delays.
+
+The final chunk will play after generation. This demonstrates streaming text to speech with Piper and basic shell scripting.
